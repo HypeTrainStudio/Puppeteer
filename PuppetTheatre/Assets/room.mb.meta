@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: d467b400e9dd30844aea22d03692dddf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: castle1:basic_stuctures
+    100002: castle1:pCube1
+    100004: castle1:pCube10
+    100006: castle1:pCube100
+    100008: castle1:pCube100 1
+    100010: castle1:pCube100 2
+    100012: castle1:pCube100 3
+    100014: castle1:pCube101
+    100016: castle1:pCube101 1
+    100018: castle1:pCube101 2
+    100020: castle1:pCube101 3
+    100022: castle1:pCube102
+    100024: castle1:pCube102 1
+    100026: castle1:pCube102 2
+    100028: castle1:pCube102 3
+    100030: castle1:pCube103
+    100032: castle1:pCube103 1
+    100034: castle1:pCube103 2
+    100036: castle1:pCube103 3
+    100038: castle1:pCube104
+    100040: castle1:pCube104 1
+    100042: castle1:pCube104 2
+    100044: castle1:pCube104 3
+    100046: castle1:pCube105
+    100048: castle1:pCube105 1
+    100050: castle1:pCube105 2
+    100052: castle1:pCube105 3
+    100054: castle1:pCube106
+    100056: castle1:pCube106 1
+    100058: castle1:pCube106 2
+    100060: castle1:pCube106 3
+    100062: castle1:pCube107
+    100064: castle1:pCube107 1
+    100066: castle1:pCube107 2
+    100068: castle1:pCube107 3
+    100070: castle1:pCube108
+    100072: castle1:pCube108 1
+    100074: castle1:pCube108 2
+    100076: castle1:pCube108 3
+    100078: castle1:pCube109
+    100080: castle1:pCube109 1
+    100082: castle1:pCube109 2
+    100084: castle1:pCube109 3
+    100086: castle1:pCube11
+    100088: castle1:pCube110
+    100090: castle1:pCube110 1
+    100092: castle1:pCube110 2
+    100094: castle1:pCube110 3
+    100096: castle1:pCube111
+    100098: castle1:pCube111 1
+    100100: castle1:pCube111 2
+    100102: castle1:pCube111 3
+    100104: castle1:pCube112
+    100106: castle1:pCube112 1
+    100108: castle1:pCube112 2
+    100110: castle1:pCube112 3
+    100112: castle1:pCube113
+    100114: castle1:pCube113 1
+    100116: castle1:pCube114
+    100118: castle1:pCube114 1
+    100120: castle1:pCube115
+    100122: castle1:pCube115 1
+    100124: castle1:pCube116
+    100126: castle1:pCube116 1
+    100128: castle1:pCube117
+    100130: castle1:pCube117 1
+    100132: castle1:pCube118
+    100134: castle1:pCube118 1
+    100136: castle1:pCube119
+    100138: castle1:pCube119 1
+    100140: castle1:pCube12
+    100142: castle1:pCube120
+    100144: castle1:pCube120 1
+    100146: castle1:pCube121
+    100148: castle1:pCube121 1
+    100150: castle1:pCube122
+    100152: castle1:pCube122 1
+    100154: castle1:pCube123
+    100156: castle1:pCube123 1
+    100158: castle1:pCube124
+    100160: castle1:pCube124 1
+    100162: castle1:pCube125
+    100164: castle1:pCube125 1
+    100166: castle1:pCube126
+    100168: castle1:pCube126 1
+    100170: castle1:pCube127
+    100172: castle1:pCube127 1
+    100174: castle1:pCube128
+    100176: castle1:pCube128 1
+    100178: castle1:pCube129
+    100180: castle1:pCube129 1
+    100182: castle1:pCube13
+    100184: castle1:pCube130
+    100186: castle1:pCube130 1
+    100188: castle1:pCube131
+    100190: castle1:pCube131 1
+    100192: castle1:pCube132
+    100194: castle1:pCube132 1
+    100196: castle1:pCube133
+    100198: castle1:pCube133 1
+    100200: castle1:pCube134
+    100202: castle1:pCube134 1
+    100204: castle1:pCube135
+    100206: castle1:pCube135 1
+    100208: castle1:pCube136
+    100210: castle1:pCube136 1
+    100212: castle1:pCube137
+    100214: castle1:pCube137 1
+    100216: castle1:pCube138
+    100218: castle1:pCube138 1
+    100220: castle1:pCube139
+    100222: castle1:pCube14
+    100224: castle1:pCube140
+    100226: castle1:pCube141
+    100228: castle1:pCube142
+    100230: castle1:pCube143
+    100232: castle1:pCube144
+    100234: castle1:pCube15
+    100236: castle1:pCube16
+    100238: castle1:pCube17
+    100240: castle1:pCube18
+    100242: castle1:pCube19
+    100244: castle1:pCube2
+    100246: castle1:pCube20
+    100248: castle1:pCube21
+    100250: castle1:pCube22
+    100252: castle1:pCube23
+    100254: castle1:pCube24
+    100256: castle1:pCube25
+    100258: castle1:pCube26
+    100260: castle1:pCube27
+    100262: castle1:pCube28
+    100264: castle1:pCube29
+    100266: castle1:pCube3
+    100268: castle1:pCube30
+    100270: castle1:pCube31
+    100272: castle1:pCube32
+    100274: castle1:pCube33
+    100276: castle1:pCube34
+    100278: castle1:pCube35
+    100280: castle1:pCube36
+    100282: castle1:pCube37
+    100284: castle1:pCube38
+    100286: castle1:pCube39
+    100288: castle1:pCube4
+    100290: castle1:pCube40
+    100292: castle1:pCube41
+    100294: castle1:pCube42
+    100296: castle1:pCube43
+    100298: castle1:pCube44
+    100300: castle1:pCube45
+    100302: castle1:pCube46
+    100304: castle1:pCube47
+    100306: castle1:pCube48
+    100308: castle1:pCube49
+    100310: castle1:pCube5
+    100312: castle1:pCube50
+    100314: castle1:pCube51
+    100316: castle1:pCube52
+    100318: castle1:pCube53
+    100320: castle1:pCube54
+    100322: castle1:pCube55
+    100324: castle1:pCube56
+    100326: castle1:pCube57
+    100328: castle1:pCube58
+    100330: castle1:pCube59
+    100332: castle1:pCube6
+    100334: castle1:pCube60
+    100336: castle1:pCube61
+    100338: castle1:pCube62
+    100340: castle1:pCube63
+    100342: castle1:pCube64
+    100344: castle1:pCube65
+    100346: castle1:pCube66
+    100348: castle1:pCube67
+    100350: castle1:pCube68
+    100352: castle1:pCube69
+    100354: castle1:pCube7
+    100356: castle1:pCube70
+    100358: castle1:pCube71
+    100360: castle1:pCube72
+    100362: castle1:pCube73
+    100364: castle1:pCube74
+    100366: castle1:pCube75
+    100368: castle1:pCube76
+    100370: castle1:pCube77
+    100372: castle1:pCube78
+    100374: castle1:pCube79
+    100376: castle1:pCube8
+    100378: castle1:pCube80
+    100380: castle1:pCube81
+    100382: castle1:pCube81 1
+    100384: castle1:pCube81 2
+    100386: castle1:pCube81 3
+    100388: castle1:pCube82
+    100390: castle1:pCube82 1
+    100392: castle1:pCube82 2
+    100394: castle1:pCube82 3
+    100396: castle1:pCube83
+    100398: castle1:pCube83 1
+    100400: castle1:pCube83 2
+    100402: castle1:pCube83 3
+    100404: castle1:pCube84
+    100406: castle1:pCube84 1
+    100408: castle1:pCube84 2
+    100410: castle1:pCube84 3
+    100412: castle1:pCube85
+    100414: castle1:pCube85 1
+    100416: castle1:pCube85 2
+    100418: castle1:pCube85 3
+    100420: castle1:pCube86
+    100422: castle1:pCube86 1
+    100424: castle1:pCube86 2
+    100426: castle1:pCube86 3
+    100428: castle1:pCube87
+    100430: castle1:pCube87 1
+    100432: castle1:pCube87 2
+    100434: castle1:pCube87 3
+    100436: castle1:pCube88
+    100438: castle1:pCube88 1
+    100440: castle1:pCube88 2
+    100442: castle1:pCube88 3
+    100444: castle1:pCube89
+    100446: castle1:pCube89 1
+    100448: castle1:pCube89 2
+    100450: castle1:pCube89 3
+    100452: castle1:pCube9
+    100454: castle1:pCube90
+    100456: castle1:pCube90 1
+    100458: castle1:pCube90 2
+    100460: castle1:pCube90 3
+    100462: castle1:pCube91
+    100464: castle1:pCube91 1
+    100466: castle1:pCube91 2
+    100468: castle1:pCube91 3
+    100470: castle1:pCube92
+    100472: castle1:pCube92 1
+    100474: castle1:pCube92 2
+    100476: castle1:pCube92 3
+    100478: castle1:pCube93
+    100480: castle1:pCube93 1
+    100482: castle1:pCube93 2
+    100484: castle1:pCube93 3
+    100486: castle1:pCube94
+    100488: castle1:pCube94 1
+    100490: castle1:pCube94 2
+    100492: castle1:pCube94 3
+    100494: castle1:pCube95
+    100496: castle1:pCube95 1
+    100498: castle1:pCube95 2
+    100500: castle1:pCube95 3
+    100502: castle1:pCube96
+    100504: castle1:pCube96 1
+    100506: castle1:pCube96 2
+    100508: castle1:pCube96 3
+    100510: castle1:pCube97
+    100512: castle1:pCube97 1
+    100514: castle1:pCube97 2
+    100516: castle1:pCube97 3
+    100518: castle1:pCube98
+    100520: castle1:pCube98 1
+    100522: castle1:pCube98 2
+    100524: castle1:pCube98 3
+    100526: castle1:pCube99
+    100528: castle1:pCube99 1
+    100530: castle1:pCube99 2
+    100532: castle1:pCube99 3
+    100534: castle1:Torhaus
+    100536: castle1:Torhaus1
+    100538: castle1:Torhaus2
+    100540: castle1:Torhaus3
+    100542: castle1:Tower1
+    100544: castle1:Tower2
+    100546: castle1:Tower3
+    100548: castle1:Tower4
+    100550: castle1:transform1
+    100552: castle1:transform10
+    100554: castle1:transform100
+    100556: castle1:transform101
+    100558: castle1:transform102
+    100560: castle1:transform103
+    100562: castle1:transform104
+    100564: castle1:transform105
+    100566: castle1:transform106
+    100568: castle1:transform107
+    100570: castle1:transform108
+    100572: castle1:transform109
+    100574: castle1:transform11
+    100576: castle1:transform110
+    100578: castle1:transform111
+    100580: castle1:transform112
+    100582: castle1:transform113
+    100584: castle1:transform114
+    100586: castle1:transform115
+    100588: castle1:transform116
+    100590: castle1:transform117
+    100592: castle1:transform118
+    100594: castle1:transform119
+    100596: castle1:transform12
+    100598: castle1:transform120
+    100600: castle1:transform121
+    100602: castle1:transform122
+    100604: castle1:transform123
+    100606: castle1:transform124
+    100608: castle1:transform125
+    100610: castle1:transform126
+    100612: castle1:transform127
+    100614: castle1:transform128
+    100616: castle1:transform129
+    100618: castle1:transform13
+    100620: castle1:transform130
+    100622: castle1:transform131
+    100624: castle1:transform132
+    100626: castle1:transform133
+    100628: castle1:transform134
+    100630: castle1:transform135
+    100632: castle1:transform136
+    100634: castle1:transform137
+    100636: castle1:transform138
+    100638: castle1:transform139
+    100640: castle1:transform14
+    100642: castle1:transform140
+    100644: castle1:transform141
+    100646: castle1:transform142
+    100648: castle1:transform143
+    100650: castle1:transform144
+    100652: castle1:transform145
+    100654: castle1:transform146
+    100656: castle1:transform147
+    100658: castle1:transform148
+    100660: castle1:transform149
+    100662: castle1:transform15
+    100664: castle1:transform150
+    100666: castle1:transform151
+    100668: castle1:transform152
+    100670: castle1:transform153
+    100672: castle1:transform154
+    100674: castle1:transform155
+    100676: castle1:transform156
+    100678: castle1:transform157
+    100680: castle1:transform158
+    100682: castle1:transform159
+    100684: castle1:transform16
+    100686: castle1:transform160
+    100688: castle1:transform161
+    100690: castle1:transform162
+    100692: castle1:transform163
+    100694: castle1:transform164
+    100696: castle1:transform165
+    100698: castle1:transform166
+    100700: castle1:transform167
+    100702: castle1:transform168
+    100704: castle1:transform169
+    100706: castle1:transform17
+    100708: castle1:transform170
+    100710: castle1:transform171
+    100712: castle1:transform172
+    100714: castle1:transform173
+    100716: castle1:transform174
+    100718: castle1:transform175
+    100720: castle1:transform176
+    100722: castle1:transform177
+    100724: castle1:transform178
+    100726: castle1:transform179
+    100728: castle1:transform18
+    100730: castle1:transform180
+    100732: castle1:transform181
+    100734: castle1:transform182
+    100736: castle1:transform183
+    100738: castle1:transform184
+    100740: castle1:transform185
+    100742: castle1:transform186
+    100744: castle1:transform187
+    100746: castle1:transform188
+    100748: castle1:transform189
+    100750: castle1:transform19
+    100752: castle1:transform190
+    100754: castle1:transform191
+    100756: castle1:transform192
+    100758: castle1:transform193
+    100760: castle1:transform194
+    100762: castle1:transform195
+    100764: castle1:transform196
+    100766: castle1:transform197
+    100768: castle1:transform198
+    100770: castle1:transform199
+    100772: castle1:transform2
+    100774: castle1:transform20
+    100776: castle1:transform200
+    100778: castle1:transform201
+    100780: castle1:transform202
+    100782: castle1:transform203
+    100784: castle1:transform204
+    100786: castle1:transform205
+    100788: castle1:transform206
+    100790: castle1:transform207
+    100792: castle1:transform208
+    100794: castle1:transform209
+    100796: castle1:transform21
+    100798: castle1:transform210
+    100800: castle1:transform211
+    100802: castle1:transform212
+    100804: castle1:transform213
+    100806: castle1:transform214
+    100808: castle1:transform215
+    100810: castle1:transform216
+    100812: castle1:transform217
+    100814: castle1:transform218
+    100816: castle1:transform219
+    100818: castle1:transform22
+    100820: castle1:transform220
+    100822: castle1:transform221
+    100824: castle1:transform222
+    100826: castle1:transform223
+    100828: castle1:transform224
+    100830: castle1:transform225
+    100832: castle1:transform226
+    100834: castle1:transform227
+    100836: castle1:transform228
+    100838: castle1:transform229
+    100840: castle1:transform23
+    100842: castle1:transform230
+    100844: castle1:transform231
+    100846: castle1:transform232
+    100848: castle1:transform233
+    100850: castle1:transform234
+    100852: castle1:transform235
+    100854: castle1:transform236
+    100856: castle1:transform237
+    100858: castle1:transform238
+    100860: castle1:transform239
+    100862: castle1:transform24
+    100864: castle1:transform240
+    100866: castle1:transform241
+    100868: castle1:transform242
+    100870: castle1:transform243
+    100872: castle1:transform244
+    100874: castle1:transform245
+    100876: castle1:transform246
+    100878: castle1:transform247
+    100880: castle1:transform248
+    100882: castle1:transform249
+    100884: castle1:transform25
+    100886: castle1:transform250
+    100888: castle1:transform251
+    100890: castle1:transform252
+    100892: castle1:transform253
+    100894: castle1:transform254
+    100896: castle1:transform255
+    100898: castle1:transform256
+    100900: castle1:transform257
+    100902: castle1:transform258
+    100904: castle1:transform259
+    100906: castle1:transform26
+    100908: castle1:transform260
+    100910: castle1:transform261
+    100912: castle1:transform262
+    100914: castle1:transform263
+    100916: castle1:transform264
+    100918: castle1:transform265
+    100920: castle1:transform266
+    100922: castle1:transform27
+    100924: castle1:transform28
+    100926: castle1:transform29
+    100928: castle1:transform3
+    100930: castle1:transform30
+    100932: castle1:transform31
+    100934: castle1:transform32
+    100936: castle1:transform33
+    100938: castle1:transform34
+    100940: castle1:transform35
+    100942: castle1:transform36
+    100944: castle1:transform37
+    100946: castle1:transform38
+    100948: castle1:transform39
+    100950: castle1:transform4
+    100952: castle1:transform40
+    100954: castle1:transform41
+    100956: castle1:transform42
+    100958: castle1:transform43
+    100960: castle1:transform44
+    100962: castle1:transform45
+    100964: castle1:transform46
+    100966: castle1:transform47
+    100968: castle1:transform48
+    100970: castle1:transform49
+    100972: castle1:transform5
+    100974: castle1:transform50
+    100976: castle1:transform51
+    100978: castle1:transform52
+    100980: castle1:transform53
+    100982: castle1:transform54
+    100984: castle1:transform55
+    100986: castle1:transform56
+    100988: castle1:transform57
+    100990: castle1:transform58
+    100992: castle1:transform59
+    100994: castle1:transform6
+    100996: castle1:transform60
+    100998: castle1:transform61
+    101000: castle1:transform62
+    101002: castle1:transform63
+    101004: castle1:transform64
+    101006: castle1:transform65
+    101008: castle1:transform66
+    101010: castle1:transform67
+    101012: castle1:transform68
+    101014: castle1:transform69
+    101016: castle1:transform7
+    101018: castle1:transform70
+    101020: castle1:transform71
+    101022: castle1:transform72
+    101024: castle1:transform73
+    101026: castle1:transform74
+    101028: castle1:transform75
+    101030: castle1:transform76
+    101032: castle1:transform77
+    101034: castle1:transform78
+    101036: castle1:transform79
+    101038: castle1:transform8
+    101040: castle1:transform80
+    101042: castle1:transform81
+    101044: castle1:transform82
+    101046: castle1:transform83
+    101048: castle1:transform84
+    101050: castle1:transform85
+    101052: castle1:transform86
+    101054: castle1:transform87
+    101056: castle1:transform88
+    101058: castle1:transform89
+    101060: castle1:transform9
+    101062: castle1:transform90
+    101064: castle1:transform91
+    101066: castle1:transform92
+    101068: castle1:transform93
+    101070: castle1:transform94
+    101072: castle1:transform95
+    101074: castle1:transform96
+    101076: castle1:transform97
+    101078: castle1:transform98
+    101080: castle1:transform99
+    101082: chair3
+    101084: chair_2
+    101086: pCube1
+    101088: pCube10
+    101090: pCube11
+    101092: pCube12
+    101094: pCube13
+    101096: pCube14
+    101098: pCube15
+    101100: pCube16
+    101102: pCube17
+    101104: pCube18
+    101106: pCube19
+    101108: pCube2
+    101110: pCube20
+    101112: pCube21
+    101114: pCube22
+    101116: pCube23
+    101118: pCube24
+    101120: pCube25
+    101122: pCube26
+    101124: pCube27
+    101126: pCube28
+    101128: pCube29
+    101130: pCube3
+    101132: pCube30
+    101134: pCube31
+    101136: pCube32
+    101138: pCube33
+    101140: pCube34
+    101142: pCube35
+    101144: pCube36
+    101146: pCube37
+    101148: pCube38
+    101150: pCube39
+    101152: pCube4
+    101154: pCube40
+    101156: pCube41
+    101158: pCube42
+    101160: pCube5
+    101162: pCube6
+    101164: pCube7
+    101166: pCube8
+    101168: pCube9
+    101170: pCylinder1
+    101172: pCylinder2
+    101174: pCylinder3
+    101176: pCylinder4
+    101178: pCylinder5
+    101180: pCylinder6
+    101182: pCylinder7
+    101184: pPlane1
+    101186: //RootNode
+    101188: transform1
+    101190: transform10
+    101192: transform11
+    101194: transform12
+    101196: transform13
+    101198: transform14
+    101200: transform15
+    101202: transform16
+    101204: transform17
+    101206: transform18
+    101208: transform19
+    101210: transform2
+    101212: transform20
+    101214: transform21
+    101216: transform22
+    101218: transform23
+    101220: transform24
+    101222: transform25
+    101224: transform26
+    101226: transform27
+    101228: transform28
+    101230: transform29
+    101232: transform3
+    101234: transform30
+    101236: transform31
+    101238: transform32
+    101240: transform33
+    101242: transform34
+    101244: transform35
+    101246: transform36
+    101248: transform37
+    101250: transform38
+    101252: transform39
+    101254: transform4
+    101256: transform40
+    101258: transform41
+    101260: transform42
+    101262: transform43
+    101264: transform5
+    101266: transform6
+    101268: transform7
+    101270: transform8
+    101272: transform9
+    400000: castle1:basic_stuctures
+    400002: castle1:pCube1
+    400004: castle1:pCube10
+    400006: castle1:pCube100
+    400008: castle1:pCube100 1
+    400010: castle1:pCube100 2
+    400012: castle1:pCube100 3
+    400014: castle1:pCube101
+    400016: castle1:pCube101 1
+    400018: castle1:pCube101 2
+    400020: castle1:pCube101 3
+    400022: castle1:pCube102
+    400024: castle1:pCube102 1
+    400026: castle1:pCube102 2
+    400028: castle1:pCube102 3
+    400030: castle1:pCube103
+    400032: castle1:pCube103 1
+    400034: castle1:pCube103 2
+    400036: castle1:pCube103 3
+    400038: castle1:pCube104
+    400040: castle1:pCube104 1
+    400042: castle1:pCube104 2
+    400044: castle1:pCube104 3
+    400046: castle1:pCube105
+    400048: castle1:pCube105 1
+    400050: castle1:pCube105 2
+    400052: castle1:pCube105 3
+    400054: castle1:pCube106
+    400056: castle1:pCube106 1
+    400058: castle1:pCube106 2
+    400060: castle1:pCube106 3
+    400062: castle1:pCube107
+    400064: castle1:pCube107 1
+    400066: castle1:pCube107 2
+    400068: castle1:pCube107 3
+    400070: castle1:pCube108
+    400072: castle1:pCube108 1
+    400074: castle1:pCube108 2
+    400076: castle1:pCube108 3
+    400078: castle1:pCube109
+    400080: castle1:pCube109 1
+    400082: castle1:pCube109 2
+    400084: castle1:pCube109 3
+    400086: castle1:pCube11
+    400088: castle1:pCube110
+    400090: castle1:pCube110 1
+    400092: castle1:pCube110 2
+    400094: castle1:pCube110 3
+    400096: castle1:pCube111
+    400098: castle1:pCube111 1
+    400100: castle1:pCube111 2
+    400102: castle1:pCube111 3
+    400104: castle1:pCube112
+    400106: castle1:pCube112 1
+    400108: castle1:pCube112 2
+    400110: castle1:pCube112 3
+    400112: castle1:pCube113
+    400114: castle1:pCube113 1
+    400116: castle1:pCube114
+    400118: castle1:pCube114 1
+    400120: castle1:pCube115
+    400122: castle1:pCube115 1
+    400124: castle1:pCube116
+    400126: castle1:pCube116 1
+    400128: castle1:pCube117
+    400130: castle1:pCube117 1
+    400132: castle1:pCube118
+    400134: castle1:pCube118 1
+    400136: castle1:pCube119
+    400138: castle1:pCube119 1
+    400140: castle1:pCube12
+    400142: castle1:pCube120
+    400144: castle1:pCube120 1
+    400146: castle1:pCube121
+    400148: castle1:pCube121 1
+    400150: castle1:pCube122
+    400152: castle1:pCube122 1
+    400154: castle1:pCube123
+    400156: castle1:pCube123 1
+    400158: castle1:pCube124
+    400160: castle1:pCube124 1
+    400162: castle1:pCube125
+    400164: castle1:pCube125 1
+    400166: castle1:pCube126
+    400168: castle1:pCube126 1
+    400170: castle1:pCube127
+    400172: castle1:pCube127 1
+    400174: castle1:pCube128
+    400176: castle1:pCube128 1
+    400178: castle1:pCube129
+    400180: castle1:pCube129 1
+    400182: castle1:pCube13
+    400184: castle1:pCube130
+    400186: castle1:pCube130 1
+    400188: castle1:pCube131
+    400190: castle1:pCube131 1
+    400192: castle1:pCube132
+    400194: castle1:pCube132 1
+    400196: castle1:pCube133
+    400198: castle1:pCube133 1
+    400200: castle1:pCube134
+    400202: castle1:pCube134 1
+    400204: castle1:pCube135
+    400206: castle1:pCube135 1
+    400208: castle1:pCube136
+    400210: castle1:pCube136 1
+    400212: castle1:pCube137
+    400214: castle1:pCube137 1
+    400216: castle1:pCube138
+    400218: castle1:pCube138 1
+    400220: castle1:pCube139
+    400222: castle1:pCube14
+    400224: castle1:pCube140
+    400226: castle1:pCube141
+    400228: castle1:pCube142
+    400230: castle1:pCube143
+    400232: castle1:pCube144
+    400234: castle1:pCube15
+    400236: castle1:pCube16
+    400238: castle1:pCube17
+    400240: castle1:pCube18
+    400242: castle1:pCube19
+    400244: castle1:pCube2
+    400246: castle1:pCube20
+    400248: castle1:pCube21
+    400250: castle1:pCube22
+    400252: castle1:pCube23
+    400254: castle1:pCube24
+    400256: castle1:pCube25
+    400258: castle1:pCube26
+    400260: castle1:pCube27
+    400262: castle1:pCube28
+    400264: castle1:pCube29
+    400266: castle1:pCube3
+    400268: castle1:pCube30
+    400270: castle1:pCube31
+    400272: castle1:pCube32
+    400274: castle1:pCube33
+    400276: castle1:pCube34
+    400278: castle1:pCube35
+    400280: castle1:pCube36
+    400282: castle1:pCube37
+    400284: castle1:pCube38
+    400286: castle1:pCube39
+    400288: castle1:pCube4
+    400290: castle1:pCube40
+    400292: castle1:pCube41
+    400294: castle1:pCube42
+    400296: castle1:pCube43
+    400298: castle1:pCube44
+    400300: castle1:pCube45
+    400302: castle1:pCube46
+    400304: castle1:pCube47
+    400306: castle1:pCube48
+    400308: castle1:pCube49
+    400310: castle1:pCube5
+    400312: castle1:pCube50
+    400314: castle1:pCube51
+    400316: castle1:pCube52
+    400318: castle1:pCube53
+    400320: castle1:pCube54
+    400322: castle1:pCube55
+    400324: castle1:pCube56
+    400326: castle1:pCube57
+    400328: castle1:pCube58
+    400330: castle1:pCube59
+    400332: castle1:pCube6
+    400334: castle1:pCube60
+    400336: castle1:pCube61
+    400338: castle1:pCube62
+    400340: castle1:pCube63
+    400342: castle1:pCube64
+    400344: castle1:pCube65
+    400346: castle1:pCube66
+    400348: castle1:pCube67
+    400350: castle1:pCube68
+    400352: castle1:pCube69
+    400354: castle1:pCube7
+    400356: castle1:pCube70
+    400358: castle1:pCube71
+    400360: castle1:pCube72
+    400362: castle1:pCube73
+    400364: castle1:pCube74
+    400366: castle1:pCube75
+    400368: castle1:pCube76
+    400370: castle1:pCube77
+    400372: castle1:pCube78
+    400374: castle1:pCube79
+    400376: castle1:pCube8
+    400378: castle1:pCube80
+    400380: castle1:pCube81
+    400382: castle1:pCube81 1
+    400384: castle1:pCube81 2
+    400386: castle1:pCube81 3
+    400388: castle1:pCube82
+    400390: castle1:pCube82 1
+    400392: castle1:pCube82 2
+    400394: castle1:pCube82 3
+    400396: castle1:pCube83
+    400398: castle1:pCube83 1
+    400400: castle1:pCube83 2
+    400402: castle1:pCube83 3
+    400404: castle1:pCube84
+    400406: castle1:pCube84 1
+    400408: castle1:pCube84 2
+    400410: castle1:pCube84 3
+    400412: castle1:pCube85
+    400414: castle1:pCube85 1
+    400416: castle1:pCube85 2
+    400418: castle1:pCube85 3
+    400420: castle1:pCube86
+    400422: castle1:pCube86 1
+    400424: castle1:pCube86 2
+    400426: castle1:pCube86 3
+    400428: castle1:pCube87
+    400430: castle1:pCube87 1
+    400432: castle1:pCube87 2
+    400434: castle1:pCube87 3
+    400436: castle1:pCube88
+    400438: castle1:pCube88 1
+    400440: castle1:pCube88 2
+    400442: castle1:pCube88 3
+    400444: castle1:pCube89
+    400446: castle1:pCube89 1
+    400448: castle1:pCube89 2
+    400450: castle1:pCube89 3
+    400452: castle1:pCube9
+    400454: castle1:pCube90
+    400456: castle1:pCube90 1
+    400458: castle1:pCube90 2
+    400460: castle1:pCube90 3
+    400462: castle1:pCube91
+    400464: castle1:pCube91 1
+    400466: castle1:pCube91 2
+    400468: castle1:pCube91 3
+    400470: castle1:pCube92
+    400472: castle1:pCube92 1
+    400474: castle1:pCube92 2
+    400476: castle1:pCube92 3
+    400478: castle1:pCube93
+    400480: castle1:pCube93 1
+    400482: castle1:pCube93 2
+    400484: castle1:pCube93 3
+    400486: castle1:pCube94
+    400488: castle1:pCube94 1
+    400490: castle1:pCube94 2
+    400492: castle1:pCube94 3
+    400494: castle1:pCube95
+    400496: castle1:pCube95 1
+    400498: castle1:pCube95 2
+    400500: castle1:pCube95 3
+    400502: castle1:pCube96
+    400504: castle1:pCube96 1
+    400506: castle1:pCube96 2
+    400508: castle1:pCube96 3
+    400510: castle1:pCube97
+    400512: castle1:pCube97 1
+    400514: castle1:pCube97 2
+    400516: castle1:pCube97 3
+    400518: castle1:pCube98
+    400520: castle1:pCube98 1
+    400522: castle1:pCube98 2
+    400524: castle1:pCube98 3
+    400526: castle1:pCube99
+    400528: castle1:pCube99 1
+    400530: castle1:pCube99 2
+    400532: castle1:pCube99 3
+    400534: castle1:Torhaus
+    400536: castle1:Torhaus1
+    400538: castle1:Torhaus2
+    400540: castle1:Torhaus3
+    400542: castle1:Tower1
+    400544: castle1:Tower2
+    400546: castle1:Tower3
+    400548: castle1:Tower4
+    400550: castle1:transform1
+    400552: castle1:transform10
+    400554: castle1:transform100
+    400556: castle1:transform101
+    400558: castle1:transform102
+    400560: castle1:transform103
+    400562: castle1:transform104
+    400564: castle1:transform105
+    400566: castle1:transform106
+    400568: castle1:transform107
+    400570: castle1:transform108
+    400572: castle1:transform109
+    400574: castle1:transform11
+    400576: castle1:transform110
+    400578: castle1:transform111
+    400580: castle1:transform112
+    400582: castle1:transform113
+    400584: castle1:transform114
+    400586: castle1:transform115
+    400588: castle1:transform116
+    400590: castle1:transform117
+    400592: castle1:transform118
+    400594: castle1:transform119
+    400596: castle1:transform12
+    400598: castle1:transform120
+    400600: castle1:transform121
+    400602: castle1:transform122
+    400604: castle1:transform123
+    400606: castle1:transform124
+    400608: castle1:transform125
+    400610: castle1:transform126
+    400612: castle1:transform127
+    400614: castle1:transform128
+    400616: castle1:transform129
+    400618: castle1:transform13
+    400620: castle1:transform130
+    400622: castle1:transform131
+    400624: castle1:transform132
+    400626: castle1:transform133
+    400628: castle1:transform134
+    400630: castle1:transform135
+    400632: castle1:transform136
+    400634: castle1:transform137
+    400636: castle1:transform138
+    400638: castle1:transform139
+    400640: castle1:transform14
+    400642: castle1:transform140
+    400644: castle1:transform141
+    400646: castle1:transform142
+    400648: castle1:transform143
+    400650: castle1:transform144
+    400652: castle1:transform145
+    400654: castle1:transform146
+    400656: castle1:transform147
+    400658: castle1:transform148
+    400660: castle1:transform149
+    400662: castle1:transform15
+    400664: castle1:transform150
+    400666: castle1:transform151
+    400668: castle1:transform152
+    400670: castle1:transform153
+    400672: castle1:transform154
+    400674: castle1:transform155
+    400676: castle1:transform156
+    400678: castle1:transform157
+    400680: castle1:transform158
+    400682: castle1:transform159
+    400684: castle1:transform16
+    400686: castle1:transform160
+    400688: castle1:transform161
+    400690: castle1:transform162
+    400692: castle1:transform163
+    400694: castle1:transform164
+    400696: castle1:transform165
+    400698: castle1:transform166
+    400700: castle1:transform167
+    400702: castle1:transform168
+    400704: castle1:transform169
+    400706: castle1:transform17
+    400708: castle1:transform170
+    400710: castle1:transform171
+    400712: castle1:transform172
+    400714: castle1:transform173
+    400716: castle1:transform174
+    400718: castle1:transform175
+    400720: castle1:transform176
+    400722: castle1:transform177
+    400724: castle1:transform178
+    400726: castle1:transform179
+    400728: castle1:transform18
+    400730: castle1:transform180
+    400732: castle1:transform181
+    400734: castle1:transform182
+    400736: castle1:transform183
+    400738: castle1:transform184
+    400740: castle1:transform185
+    400742: castle1:transform186
+    400744: castle1:transform187
+    400746: castle1:transform188
+    400748: castle1:transform189
+    400750: castle1:transform19
+    400752: castle1:transform190
+    400754: castle1:transform191
+    400756: castle1:transform192
+    400758: castle1:transform193
+    400760: castle1:transform194
+    400762: castle1:transform195
+    400764: castle1:transform196
+    400766: castle1:transform197
+    400768: castle1:transform198
+    400770: castle1:transform199
+    400772: castle1:transform2
+    400774: castle1:transform20
+    400776: castle1:transform200
+    400778: castle1:transform201
+    400780: castle1:transform202
+    400782: castle1:transform203
+    400784: castle1:transform204
+    400786: castle1:transform205
+    400788: castle1:transform206
+    400790: castle1:transform207
+    400792: castle1:transform208
+    400794: castle1:transform209
+    400796: castle1:transform21
+    400798: castle1:transform210
+    400800: castle1:transform211
+    400802: castle1:transform212
+    400804: castle1:transform213
+    400806: castle1:transform214
+    400808: castle1:transform215
+    400810: castle1:transform216
+    400812: castle1:transform217
+    400814: castle1:transform218
+    400816: castle1:transform219
+    400818: castle1:transform22
+    400820: castle1:transform220
+    400822: castle1:transform221
+    400824: castle1:transform222
+    400826: castle1:transform223
+    400828: castle1:transform224
+    400830: castle1:transform225
+    400832: castle1:transform226
+    400834: castle1:transform227
+    400836: castle1:transform228
+    400838: castle1:transform229
+    400840: castle1:transform23
+    400842: castle1:transform230
+    400844: castle1:transform231
+    400846: castle1:transform232
+    400848: castle1:transform233
+    400850: castle1:transform234
+    400852: castle1:transform235
+    400854: castle1:transform236
+    400856: castle1:transform237
+    400858: castle1:transform238
+    400860: castle1:transform239
+    400862: castle1:transform24
+    400864: castle1:transform240
+    400866: castle1:transform241
+    400868: castle1:transform242
+    400870: castle1:transform243
+    400872: castle1:transform244
+    400874: castle1:transform245
+    400876: castle1:transform246
+    400878: castle1:transform247
+    400880: castle1:transform248
+    400882: castle1:transform249
+    400884: castle1:transform25
+    400886: castle1:transform250
+    400888: castle1:transform251
+    400890: castle1:transform252
+    400892: castle1:transform253
+    400894: castle1:transform254
+    400896: castle1:transform255
+    400898: castle1:transform256
+    400900: castle1:transform257
+    400902: castle1:transform258
+    400904: castle1:transform259
+    400906: castle1:transform26
+    400908: castle1:transform260
+    400910: castle1:transform261
+    400912: castle1:transform262
+    400914: castle1:transform263
+    400916: castle1:transform264
+    400918: castle1:transform265
+    400920: castle1:transform266
+    400922: castle1:transform27
+    400924: castle1:transform28
+    400926: castle1:transform29
+    400928: castle1:transform3
+    400930: castle1:transform30
+    400932: castle1:transform31
+    400934: castle1:transform32
+    400936: castle1:transform33
+    400938: castle1:transform34
+    400940: castle1:transform35
+    400942: castle1:transform36
+    400944: castle1:transform37
+    400946: castle1:transform38
+    400948: castle1:transform39
+    400950: castle1:transform4
+    400952: castle1:transform40
+    400954: castle1:transform41
+    400956: castle1:transform42
+    400958: castle1:transform43
+    400960: castle1:transform44
+    400962: castle1:transform45
+    400964: castle1:transform46
+    400966: castle1:transform47
+    400968: castle1:transform48
+    400970: castle1:transform49
+    400972: castle1:transform5
+    400974: castle1:transform50
+    400976: castle1:transform51
+    400978: castle1:transform52
+    400980: castle1:transform53
+    400982: castle1:transform54
+    400984: castle1:transform55
+    400986: castle1:transform56
+    400988: castle1:transform57
+    400990: castle1:transform58
+    400992: castle1:transform59
+    400994: castle1:transform6
+    400996: castle1:transform60
+    400998: castle1:transform61
+    401000: castle1:transform62
+    401002: castle1:transform63
+    401004: castle1:transform64
+    401006: castle1:transform65
+    401008: castle1:transform66
+    401010: castle1:transform67
+    401012: castle1:transform68
+    401014: castle1:transform69
+    401016: castle1:transform7
+    401018: castle1:transform70
+    401020: castle1:transform71
+    401022: castle1:transform72
+    401024: castle1:transform73
+    401026: castle1:transform74
+    401028: castle1:transform75
+    401030: castle1:transform76
+    401032: castle1:transform77
+    401034: castle1:transform78
+    401036: castle1:transform79
+    401038: castle1:transform8
+    401040: castle1:transform80
+    401042: castle1:transform81
+    401044: castle1:transform82
+    401046: castle1:transform83
+    401048: castle1:transform84
+    401050: castle1:transform85
+    401052: castle1:transform86
+    401054: castle1:transform87
+    401056: castle1:transform88
+    401058: castle1:transform89
+    401060: castle1:transform9
+    401062: castle1:transform90
+    401064: castle1:transform91
+    401066: castle1:transform92
+    401068: castle1:transform93
+    401070: castle1:transform94
+    401072: castle1:transform95
+    401074: castle1:transform96
+    401076: castle1:transform97
+    401078: castle1:transform98
+    401080: castle1:transform99
+    401082: chair3
+    401084: chair_2
+    401086: pCube1
+    401088: pCube10
+    401090: pCube11
+    401092: pCube12
+    401094: pCube13
+    401096: pCube14
+    401098: pCube15
+    401100: pCube16
+    401102: pCube17
+    401104: pCube18
+    401106: pCube19
+    401108: pCube2
+    401110: pCube20
+    401112: pCube21
+    401114: pCube22
+    401116: pCube23
+    401118: pCube24
+    401120: pCube25
+    401122: pCube26
+    401124: pCube27
+    401126: pCube28
+    401128: pCube29
+    401130: pCube3
+    401132: pCube30
+    401134: pCube31
+    401136: pCube32
+    401138: pCube33
+    401140: pCube34
+    401142: pCube35
+    401144: pCube36
+    401146: pCube37
+    401148: pCube38
+    401150: pCube39
+    401152: pCube4
+    401154: pCube40
+    401156: pCube41
+    401158: pCube42
+    401160: pCube5
+    401162: pCube6
+    401164: pCube7
+    401166: pCube8
+    401168: pCube9
+    401170: pCylinder1
+    401172: pCylinder2
+    401174: pCylinder3
+    401176: pCylinder4
+    401178: pCylinder5
+    401180: pCylinder6
+    401182: pCylinder7
+    401184: pPlane1
+    401186: //RootNode
+    401188: transform1
+    401190: transform10
+    401192: transform11
+    401194: transform12
+    401196: transform13
+    401198: transform14
+    401200: transform15
+    401202: transform16
+    401204: transform17
+    401206: transform18
+    401208: transform19
+    401210: transform2
+    401212: transform20
+    401214: transform21
+    401216: transform22
+    401218: transform23
+    401220: transform24
+    401222: transform25
+    401224: transform26
+    401226: transform27
+    401228: transform28
+    401230: transform29
+    401232: transform3
+    401234: transform30
+    401236: transform31
+    401238: transform32
+    401240: transform33
+    401242: transform34
+    401244: transform35
+    401246: transform36
+    401248: transform37
+    401250: transform38
+    401252: transform39
+    401254: transform4
+    401256: transform40
+    401258: transform41
+    401260: transform42
+    401262: transform43
+    401264: transform5
+    401266: transform6
+    401268: transform7
+    401270: transform8
+    401272: transform9
+    2300000: castle1:Torhaus3
+    2300002: chair3
+    2300004: chair_2
+    2300006: pCube1
+    2300008: pCube2
+    2300010: pCube40
+    2300012: pCube41
+    2300014: pCube42
+    2300016: pCylinder6
+    2300018: pPlane1
+    3300000: castle1:Torhaus3
+    3300002: chair3
+    3300004: chair_2
+    3300006: pCube1
+    3300008: pCube2
+    3300010: pCube40
+    3300012: pCube41
+    3300014: pCube42
+    3300016: pCylinder6
+    3300018: pPlane1
+    4300000: pCube1
+    4300002: pPlane1
+    4300004: pCube2
+    4300006: pCylinder6
+    4300008: chair_2
+    4300010: chair3
+    4300012: castle1:Torhaus3
+    4300014: pCube40
+    4300016: pCube41
+    4300018: pCube42
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
