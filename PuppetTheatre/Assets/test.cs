@@ -26,28 +26,45 @@ public class test : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		Vector3 xyLVector = puppetL.index.transform.localPosition;
-		Vector3 xyRVector = puppetR.index.transform.localPosition;
-
-		HandL.transform.localPosition = new Vector3 (xyLVector.x * 2 - 10, xyLVector.y, 4);
-
-		HandR.transform.localPosition = new Vector3 (xyRVector.x * 2 + 5, xyRVector.y, 4);
-
-		if(puppetL.thumbUp)
-	   	{
-			this.transform.Rotate(Vector3.up);
-		}
-
-		if(puppetR.thumbUp)
+		if(puppetL.leapOn || puppetR.leapOn)
 		{
-			this.transform.Rotate(Vector3.down);
-			FootR.AddForce(Vector3.up);
-		}
+			Vector3 xyLVector = puppetL.index.transform.localPosition;
+			Vector3 xyRVector = puppetR.index.transform.localPosition;
 
-		if(puppetL.thumbUp || puppetR.thumbUp)
+			HandL.transform.localPosition = new Vector3 (xyLVector.x * 2 - 10, xyLVector.y, 2);
+
+			HandR.transform.localPosition = new Vector3 (xyRVector.x * 2 + 5, xyRVector.y, 2);
+
+			if (puppetL.thumbUp) {
+					this.transform.Rotate (Vector3.up);
+			}
+
+			if (puppetR.thumbUp) {
+					this.transform.Rotate (Vector3.down);
+			}
+
+			if (puppetL.thumbUp || puppetR.thumbUp) {
+					//this.transform.Translate(Vector3.forward/20, this.transform);
+					this.rigidbody.AddRelativeForce (Vector3.forward*100, ForceMode.Impulse);
+			}
+		}
+		else if(!puppetL.leapOn || !puppetR.leapOn)
 		{
-			//this.transform.Translate(Vector3.forward/20, this.transform);
-			this.rigidbody.AddRelativeForce(Vector3.forward, ForceMode.Impulse);
+			if(Input.GetAxis("Vertical") > 0)
+			{
+				this.rigidbody.AddRelativeForce(Vector3.forward, ForceMode.Impulse);
+			}
+			if(Input.GetAxis("Horizontal") < 0)
+			{
+				this.transform.Rotate(Vector3.down);
+			}
+			else if(Input.GetAxis("Horizontal") > 0)
+			{
+				this.transform.Rotate(Vector3.up);
+			}
+
+			HandL.transform.localPosition = new Vector3 (((Input.mousePosition.x  - Screen.width/2)/75) - .1f, (Input.mousePosition.y - Screen.height/2)/100, 2);
+			HandR.transform.localPosition = new Vector3 (((Input.mousePosition.x - Screen.width/2)/75) + .1f, (Input.mousePosition.y - Screen.height/2)/100, 2);
 		}
 	}
 }
