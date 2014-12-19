@@ -7,10 +7,7 @@ public class move : MonoBehaviour {
 	public Rigidbody HandL;
 	public Rigidbody FootR;
 	public Rigidbody FootL;
-
-	Vector3 footRDefault;
-	Vector3 footLDefault;
-
+	
 	public puppeteer RhandControl;
 	public puppeteer LhandControl;
 
@@ -19,9 +16,6 @@ public class move : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
-		footLDefault = FootL.transform.position;
-		footRDefault = FootR.transform.position;
 
 	}
 	
@@ -43,18 +37,27 @@ public class move : MonoBehaviour {
 			isStep = false;
 		}
 
-		if(LhandControl.thumbUp)
-		{
-			FootL.AddForce(new Vector3(.5f,.5f,0) ,ForceMode.Impulse);
 
-			this.rigidbody.transform.Rotate(Vector3.up);
-		}
+//		if(Leap.Controller)
+		//{
+			if(LhandControl.thumbUp)
+			{
+				FootL.AddForce(new Vector3(.5f,.5f,0) ,ForceMode.Impulse);
 
-		if(RhandControl.thumbUp)
-		{
-			FootR.AddForce(new Vector3(.5f,.5f,0) ,ForceMode.Impulse);
+				this.rigidbody.transform.Rotate(Vector3.up);
+			}
 
-			this.rigidbody.transform.Rotate(Vector3.down);
-		}
+			if(RhandControl.thumbUp)
+			{
+				FootR.AddForce(new Vector3(.5f,.5f,0) ,ForceMode.Impulse);
+
+				this.rigidbody.transform.Rotate(Vector3.down);
+			}
+		//}
+		/*else{
+			if(Input.GetAxis("vertical") > 0)
+			{
+			}
+		}*/
 	}
 }

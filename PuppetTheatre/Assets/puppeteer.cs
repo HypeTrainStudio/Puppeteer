@@ -29,6 +29,7 @@ public class puppeteer : MonoBehaviour {
 	Hand currentHand = null;
 
 	public bool thumbUp;
+	public bool leapOn;
 
 	Vector3 pointerLoc;
 	public Vector3 getPointer;
@@ -45,10 +46,15 @@ public class puppeteer : MonoBehaviour {
 		midDef = middle.transform.position;
 		indDef = index.transform.position;
 		thuDef = thumb.transform.position;
+
+		if (leapMotion.IsConnected)
+			leapOn = true;
+		else
+			leapOn = false;
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
 
 		getHandPositions ();
 
@@ -106,8 +112,6 @@ public class puppeteer : MonoBehaviour {
 			}
 			else if(currentHand.IsRight && !isLeft)
 			{
-				Debug.Log(currentHand.PalmNormal);
-
 				palmLeap = currentHand.PalmPosition;
 				palm.transform.eulerAngles = new Vector3(currentHand.PalmNormal.x*90, currentHand.PalmNormal.y*90, -currentHand.PalmNormal.z*90);
 

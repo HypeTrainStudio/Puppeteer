@@ -54,11 +54,21 @@
      <Compile Include="Assets\LeapMotion\Leap_Boilerplate\scripts_for_example_scenes\RevolvingCamera.cs" />
      <Compile Include="Assets\LeapMotion\Leap_Boilerplate\scripts_for_example_scenes\ScreenMover.cs" />
      <Compile Include="Assets\LeapMotion\Leap_Boilerplate\scripts_for_example_scenes\WorldMover.cs" />
+     <Compile Include="Assets\ballSpawner.cs" />
+     <Compile Include="Assets\handIgnore.cs" />
+     <Compile Include="Assets\horse.cs" />
+     <Compile Include="Assets\keyBoard.cs" />
      <Compile Include="Assets\move.cs" />
+     <Compile Include="Assets\play.cs" />
+     <Compile Include="Assets\pointerScript.cs" />
      <Compile Include="Assets\puppeteer.cs" />
      <Compile Include="Assets\test.cs" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\LeapMotion\Leap_Boilerplate\readme.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
  <Reference Include="LeapCSharp.NET3.5">
  <HintPath>C:/Users/Brecon/Documents/GitHub/Puppeteer/PuppetTheatre/Assets/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
