@@ -14,6 +14,7 @@ public class ScreenMover : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
 		if(_leapManager != null) { 
 			if(_leapManager.pointerAvailible)
 			{
